@@ -1,0 +1,2 @@
+v1
+{"dataSchemaJson":"{\"type\":\"struct\",\"fields\":[{\"name\":\"customer_id\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"customer_unique_id\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"customer_zip_code_prefix\",\"type\":\"integer\",\"nullable\":true,\"metadata\":{}},{\"name\":\"customer_city\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"customer_state\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}}]}","partitionSchemaJson":"{\"type\":\"struct\",\"fields\":[]}"}

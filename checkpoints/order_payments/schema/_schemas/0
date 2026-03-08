@@ -1,0 +1,2 @@
+v1
+{"dataSchemaJson":"{\"type\":\"struct\",\"fields\":[{\"name\":\"order_id\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"payment_sequential\",\"type\":\"integer\",\"nullable\":true,\"metadata\":{}},{\"name\":\"payment_type\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"payment_installments\",\"type\":\"integer\",\"nullable\":true,\"metadata\":{}},{\"name\":\"payment_value\",\"type\":\"double\",\"nullable\":true,\"metadata\":{}}]}","partitionSchemaJson":"{\"type\":\"struct\",\"fields\":[]}"}

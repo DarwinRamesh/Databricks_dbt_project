@@ -1,0 +1,2 @@
+v1
+{"dataSchemaJson":"{\"type\":\"struct\",\"fields\":[{\"name\":\"product_category_name\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"product_category_name_english\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}}]}","partitionSchemaJson":"{\"type\":\"struct\",\"fields\":[]}"}
