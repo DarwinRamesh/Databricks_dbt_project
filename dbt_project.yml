@@ -16,4 +16,3 @@ models:
   olist_lakehouse:
     gold:
       +materialized: table
-      +schema: gold
