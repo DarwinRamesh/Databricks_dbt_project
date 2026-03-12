@@ -9,6 +9,9 @@ seed-paths: ["seeds"]
 macro-paths: ["macros"]
 snapshot-paths: ["snapshots"]
 
+flags:
+  use_legacy_dbt: true
+
 models:
   olist_lakehouse:
     gold:
