@@ -1,6 +1,5 @@
 name: 'olist_lakehouse'
 version: '1.0.0'
-
 profile: 'default'
 
 model-paths: ["models"]
