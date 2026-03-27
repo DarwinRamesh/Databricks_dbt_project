@@ -49,7 +49,6 @@ Databricks_dbt_project/
     ├── system_architecture.png
     └── star_schema.png
 ```
-leaning and validation to Silver
 ---
 
 ## Data Pipeline
